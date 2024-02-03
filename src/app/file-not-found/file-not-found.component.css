@@ -1,0 +1,18 @@
+img {
+  background-size: cover;
+  background-position: left;
+}
+.error-template {
+  padding: 0px 0px;
+  text-align: center;
+}
+.error-actions {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.error-actions .btn {
+  margin-right: 10px;
+}
+h1{color: purple;}
+h2{ color: rgb(83, 83, 83);}
+.btn btn-outline-secondary{ hover:white;}
